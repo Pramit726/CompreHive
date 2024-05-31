@@ -1,0 +1,36 @@
+{
+    "comprehension_passage": "This is a sample comprehension passage. It contains several sentences providing information or a story.",
+    "mcqs": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Berlin", "Rome"],
+        "answer_key": ""
+      },
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "J.K. Rowling", "Stephen King", "Charles Dickens"],
+        "answer_key": 0
+      }
+    ],
+    "short_answer_questions": [
+      {
+        "question": "What is the main theme of the passage?",
+        "demo_answer": "The main theme of the passage is about..."
+      },
+      {
+        "question": "Explain the significance of the character X in the passage.",
+        "demo_answer": "The character X is significant because..."
+      }
+    ],
+    "long_answer_questions": [
+      {
+        "question": "Discuss the impact of climate change on global agriculture.",
+        "demo_answer": "Climate change has a profound impact on global agriculture..."
+      },
+      {
+        "question": "Analyze the character development in the provided passage.",
+        "demo_answer": "The character development in the passage can be analyzed by..."
+      }
+    ]
+  }
+  
