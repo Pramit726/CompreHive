@@ -10,7 +10,7 @@
   <p align="center">
     Enhance understanding effortlessly with customized reading passages and questions
     <br />
-    <a href="https://github.com/Pramit726/CompreHive/assets/149934842/43ef4642-55e9-4be0-9dff-14684bee0c43">View Demo</a>
+    <a href="https://github.com/Pramit726/CompreHive/assets/149934842/32865eac-efb9-4448-840f-1d741f73ac41">View Demo</a>
     ·
     <a href="https://github.com/Pramit726/CompreHive/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -51,7 +51,11 @@ Deployed on Amazon Web Services (AWS), the application offers easy access and ut
 
 - **App Recording**
 
-https://github.com/Pramit726/CompreHive/assets/149934842/5dea4867-17dd-4d1f-842b-1767732834a4
+
+
+https://github.com/Pramit726/CompreHive/assets/149934842/32865eac-efb9-4448-840f-1d741f73ac41
+
+
 
 <br/>
 
