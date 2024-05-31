@@ -1,0 +1,7 @@
+langchain
+python-dotenv
+streamlit
+langchain-google-genai
+langchain_core
+reportlab
+-e .
