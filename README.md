@@ -1,9 +1,10 @@
 <a id="top"></a>
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/Pramit726/CompreHive/assets/149934842/da9d2975-76c8-4a3f-ac06-4984bc100d82" alt="Logo" width="80" height="80">
+    <img src="https://github.com/user-attachments/assets/9f54c8fd-8e32-41d6-9367-740b02e8c4ad" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">CompreHive</h3>
 
@@ -61,16 +62,18 @@ https://github.com/Pramit726/CompreHive/assets/149934842/32865eac-efb9-4448-840f
 
 - **Text File Screenshot**
 
+
 <!-- ![App Screenshot](https://github.com/Pramit726/CompreHive/assets/149934842/8acc6b76-40f8-4137-9b74-9413ea2af5de) --> 
-<img src="https://github.com/Pramit726/CompreHive/assets/149934842/8acc6b76-40f8-4137-9b74-9413ea2af5de" alt="Text-screenshot" width="500" height="700">
+<img src="https://github.com/user-attachments/assets/cbac4ad4-18a9-4e74-8081-851cc2e6c85c" alt="Text-screenshot" width="500" height="700">
 
 <br/>
 <br/>
 
 - **PDF File Screenshot**
 
+
 <!-- ![App Screenshot](https://github.com/Pramit726/CompreHive/assets/149934842/fa5c1253-155c-4dbb-b499-032628fe7cab)--> 
-<img src="https://github.com/Pramit726/CompreHive/assets/149934842/fa5c1253-155c-4dbb-b499-032628fe7cab" alt="PDF-screenshot" width="500" height="874">
+<img src="https://github.com/user-attachments/assets/dd146f79-7db1-4f03-bdca-e896e1fdd6f3" alt="PDF-screenshot" width="500" height="874">
 
 <!-- REQUIRED API KEYS -->
 ## Required API Keys
@@ -84,8 +87,6 @@ LangSmith facilitates usage tracking and provides valuable insights into user be
 
 <!-- !![Screenshot 2024-05-16 101226](https://github.com/Pramit726/CompreHive/assets/149934842/7e25da75-2c49-4f7c-a78e-6a484748aca3)--> 
 
-![App Screenshot](https://github.com/Pramit726/CompreHive/assets/149934842/7e25da75-2c49-4f7c-a78e-6a484748aca3)
-<br/>
 <br/>
 
 Ensure that you obtain these API keys before running the project.
